@@ -24,10 +24,16 @@ h3 {
     font-weight: 300;
 }
 
+h4 {
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
 p {
     font-size: 1.571428571em;
     font-weight: 200;
-    margin: 0 auto 72px auto;
+    margin: 0 auto;
     max-width: 600px;
     line-height: 1.8em;
     strong {
