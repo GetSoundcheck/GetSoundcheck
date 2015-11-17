@@ -115,7 +115,7 @@ header {
   #contactform input {
     border: 1px solid #009CDE;
     border-radius: 3px;
-    width: 362px;
+    width: auto;
     font-size: 1.285714286em;
     margin: 28px auto 0 auto;
     padding: 12px 18px; }
