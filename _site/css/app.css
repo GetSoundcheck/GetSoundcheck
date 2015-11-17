@@ -1,0 +1,104 @@
+body {
+  background: #fff;
+  color: #475058;
+  font-weight: normal;
+  font-family: "Roboto", Helvetica Neue, Helvetica, Arial, sans-serif;
+  letter-spacing: 0.5px; }
+
+h1, h2, h3, h4, h5 {
+  font-weight: 100; }
+
+h1 {
+  font-size: 1.5em; }
+
+h2 {
+  font-size: 4.3em; }
+
+h3 {
+  font-size: 1.14em;
+  text-transform: uppercase;
+  font-weight: 300; }
+
+p {
+  font-size: 1.571428571em;
+  font-weight: 200;
+  margin: 0 auto 72px auto;
+  max-width: 600px;
+  line-height: 1.8em; }
+  p strong {
+    font-weight: 500; }
+
+header {
+  padding-top: 20px; }
+  header h1 {
+    margin: 0;
+    padding: 10px 0; }
+    header h1 a.brand {
+      background-image: url(../images/soundcheck.svg);
+      background-size: auto;
+      display: block;
+      text-indent: -6000px;
+      height: 21px;
+      width: 152px; }
+      header h1 a.brand:hover {
+        opacity: 0.5; }
+  header .icon {
+    background-image: url(../images/icon.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 41px; }
+  header h3 {
+    text-align: right;
+    margin: 0;
+    padding: 0;
+    line-height: 41px;
+    color: #fff; }
+
+#contactform {
+  margin-top: 160px;
+  text-align: center; }
+
+#topwrap {
+  background-color: #009CDE;
+  background-image: url(../images/bg.jpg);
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+  text-align: center; }
+
+#content h2 {
+  margin: 56px 0 22px 0;
+  padding: 0; }
+
+.nexus-large {
+  background-image: url(../images/nexus5x.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 61px;
+  padding-bottom: 68px;
+  padding-right: 16px;
+  padding-left: 14px;
+  margin: 0px 30px -145px 30px;
+  display: inline-block; }
+  .nexus-large img {
+    width: 253px; }
+
+.nexus-small {
+  background-image: url(../images/nexus5x.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 50px;
+  padding-bottom: 55px;
+  padding-right: 13px;
+  padding-left: 11px;
+  display: inline-block;
+  margin: 0px 30px -86px 30px; }
+  .nexus-small img {
+    width: 229px; }
+
+#contactform {
+  color: #009CDE;
+  margin-top: 160px;
+  text-align: center; }

@@ -1,0 +1,36 @@
+body {
+    background: $background;
+    color: $body;
+    font-weight: normal;
+    font-family: $body-stack;
+    letter-spacing: 0.5px;
+}
+
+h1,h2,h3,h4,h5{
+    font-weight: 100;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 4.3em;
+}
+
+h3 {
+    font-size: 1.14em;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+p {
+    font-size: 1.571428571em;
+    font-weight: 200;
+    margin: 0 auto 72px auto;
+    max-width: 600px;
+    line-height: 1.8em;
+    strong {
+        font-weight: 500;
+    }
+}

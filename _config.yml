@@ -1,0 +1,36 @@
+# Site title and subtitle. This is used in _includes/header.html
+title: 'soundcheck'
+subtitle: 'listen & decide'
+
+# if you use google analytics, add your tracking id here
+google_analytics_id: ''
+
+# Keep as an empty string if served up at the root. If served up at a specific
+# path (e.g. on GitHub pages) leave off the trailing slash, e.g. /my-project
+baseurl: 'file:///Users/adit/Box%20Sync/Soundcheck/GetSoundcheck/_site'
+
+# Dates are not included in permalinks
+permalink: none
+
+# Syntax highlighting
+highlighter: pygments
+
+# Since these are pages, it doesn't really matter
+future: true
+
+# Exclude non-site files
+exclude: ['README.md']
+
+# Use the redcarpet Markdown renderer
+markdown: redcarpet
+redcarpet:
+    extensions: [
+        'no_intra_emphasis',
+        'fenced_code_blocks',
+        'autolink',
+        'strikethrough',
+        'superscript',
+        'with_toc_data',
+        'tables',
+        'hardwrap'
+    ]

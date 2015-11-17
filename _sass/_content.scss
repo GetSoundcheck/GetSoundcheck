@@ -1,0 +1,53 @@
+#topwrap {
+	background-color: $blue;
+	background-image: url(../images/bg.jpg);
+	background-position: center;
+	background-size: cover;
+	color: $white;
+	text-align: center;
+}
+
+#content {
+	h2 {
+		margin: 56px 0 22px 0;
+		padding: 0;
+	}
+}
+
+.nexus-large {
+	background-image: url(../images/nexus5x.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 61px;
+	padding-bottom: 68px;
+	padding-right: 16px;
+	padding-left: 14px;
+	margin: 0px 30px -145px 30px;
+	display: inline-block;
+	img {
+		width: 253px;
+	}
+}
+
+.nexus-small {
+	background-image: url(../images/nexus5x.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 50px;
+	padding-bottom: 55px;
+	padding-right: 13px;
+	padding-left: 11px;
+	display: inline-block;
+	margin: 0px 30px -86px 30px;
+	img {
+		width: 229px;
+	}	
+}
+
+#contactform {
+	color: $blue;
+	margin-top: 160px;
+	text-align: center;
+}
