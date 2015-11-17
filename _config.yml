@@ -7,7 +7,7 @@ google_analytics_id: ''
 
 # Keep as an empty string if served up at the root. If served up at a specific
 # path (e.g. on GitHub pages) leave off the trailing slash, e.g. /my-project
-baseurl: 'file:///Users/adit/Box%20Sync/Soundcheck/GetSoundcheck/_site'
+baseurl: 'http://getsoundcheck.github.io/'
 
 # Dates are not included in permalinks
 permalink: none
