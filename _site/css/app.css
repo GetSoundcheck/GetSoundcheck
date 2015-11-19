@@ -133,6 +133,12 @@ header {
   #contactform .mc-field-group {
     display: inline-block;
     margin-right: 6px; }
+  #contactform .mce_inline_error {
+    position: absolute;
+    margin-top: 8px;
+    background-color: #FF0000; }
+  #contactform #mc_embed_signup input.mce_inline_error {
+    border-color: #FF0000; }
 
 #follow {
   color: #009CDE;

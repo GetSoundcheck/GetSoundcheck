@@ -74,6 +74,14 @@
 		display: inline-block;
 		margin-right: 6px;
 	}
+	.mce_inline_error {
+		position: absolute;
+		margin-top: 8px;
+		background-color: $red;
+	}
+	#mc_embed_signup input.mce_inline_error {
+    border-color: $red;
+	}
 }
 
 #follow {
