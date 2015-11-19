@@ -148,7 +148,8 @@ header {
     margin-top: 8px;
     font-size: 1.285714286em;
     max-width: 600px;
-    font-weight: 300; }
+    font-weight: 300;
+    margin: 8px auto 0 auto; }
 
 #follow {
   color: #009CDE;
