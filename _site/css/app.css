@@ -133,7 +133,7 @@ header {
   #contactform .mc-field-group {
     display: inline-block;
     margin-right: 6px; }
-  #contactform .mce_inline_error {
+  #contactform div.mce_inline_error {
     position: absolute;
     margin-top: 8px;
     background-color: #FF0000; }
