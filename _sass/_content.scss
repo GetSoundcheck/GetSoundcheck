@@ -49,6 +49,12 @@
 	}	
 }
 
+@media (max-width: 34em) {
+	.nexus-large img {
+		width: 229px;
+	}
+}
+
 #contactform {
 	color: $blue;
 	margin-top: 160px;

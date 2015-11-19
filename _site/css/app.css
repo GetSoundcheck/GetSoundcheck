@@ -113,6 +113,9 @@ header {
   .nexus-small img {
     width: 229px; }
 
+@media (max-width: 34em) {
+  .nexus-large img {
+    width: 229px; } }
 #contactform {
   color: #009CDE;
   margin-top: 160px;
