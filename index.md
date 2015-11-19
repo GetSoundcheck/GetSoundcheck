@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mobile Style Guide"
+title: "Listen and Decide"
 ---
 
 ##Listen & decide.
