@@ -68,6 +68,8 @@ header {
   #footerwrap img {
     margin: 0 auto 16px auto;
     display: block; }
+  #footerwrap a {
+    color: #fff; }
 
 #topwrap {
   background-color: #009CDE;
@@ -139,6 +141,11 @@ header {
     background-color: #FF0000; }
   #contactform #mc_embed_signup input.mce_inline_error {
     border-color: #FF0000; }
+  #contactform #mce-responses {
+    margin-top: 8px;
+    font-size: 1.285714286em;
+    max-width: 600px;
+    font-weight: 300; }
 
 #follow {
   color: #009CDE;
