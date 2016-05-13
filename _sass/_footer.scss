@@ -10,17 +10,20 @@
 		display: block;
 	}
 	a {
-		color: $blue;
-	}
-		&#twitter, &#facebook {
-			display: inline-block;
-			height: 36px;
-			text-indent: -3000px;
-			width: 36px;
-			margin: 16px 8px 64px 8px;			
+		display: inline-block;
+		height: 36px;
+		text-indent: -3000px;
+		width: 36px;
+		margin: 16px 8px 64px 8px;
+		&#twitter {
 			background-image: url(../images/twitter.svg);
-			&:hover {
-				opacity: 0.5;
-			}
+
 		}	
+		&#facebook {
+			background-image: url(../images/facebook.svg);
+		}
+		&:hover {
+			opacity: 0.5;
+		}
+	}
 }
